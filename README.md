@@ -5,14 +5,12 @@
 
 <div align="center"> 
 
-
-<h1 align="center"><em>Hello, World! 🌎</em><br>I'm Yara Alharbi, a Front-End Web Developer ✨
-<p></p>
-   
+  <!-- 
 ![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=FFD43B&labelColor=3776AB)&nbsp;
 <!--![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)-->
+<!--
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
-<!---->
+-->
 
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Sedan+SC&weight=200&pause=1000&color=654597&background=6545971F&random=false&width=435&height=40&lines=If+you+give+the+world+will+give+you" alt="Typing SVG" /></a> 
@@ -33,6 +31,13 @@ const AboutMe = {
 };
 ```
 
+<br>
+<br>
+
+<h3 align="center"><em>Hello, World! 🌎</em>
+<br><p>I'm Yara Alharbi, a Front-End Web Developer ✨</p>
+<br>
+<br>
 
 ## 🛠️ What I Work With  
 
